@@ -1,8 +1,10 @@
 # Application
-web/app/plugins/*
+# Keep manual uploaded plugins
+# web/app/plugins/*
 !web/app/plugins/.gitkeep
 web/app/mu-plugins/*/
 web/app/upgrade
+# Keep uploads
 # web/app/uploads/*
 !web/app/uploads/.gitkeep
 
